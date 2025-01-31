@@ -1,15 +1,5 @@
 # 💫 About Me:
-● B.Tech Computer Science & Engineering student (CGPA: 8.7) with expertise in Full Stack development and 
-deployment on platforms like Render, Vercel, and Netlify. 
-● Vice President of COMPESA, leading a team of 40+ to organize hackathons and workshops for 300+ 
-students. 
-● Grand Finalist in Smart India Hackathon 2023 & Winner of General championship at state level project 
-exhibition DIPEX 2024, recognized for innovative problem-solving. 
-● Key projects include a real-time code editor, QR-based tourist info system, and bus pass registration 
-system. 
-● Proficient in web technologies such as HTML5 and React, with expertise in Node.js, MongoDB, Express.js, 
-and Git, focusing on building scalable, user-centric applications. 
-● Proven leadership in coordinating national events and developing real-time, responsive solutions.
+ReactJS FullStack Developer
 
 
 ## 🌐 Socials:
