@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am currently working on Collaborative Code Editor which is being made using the MERN Stack!!<br><br>Hi there, I am Shardul, an aspiring Software Engineer with a passion for Front-end and Full-stack web development. Currently, I am pursuing my B.Tech in Computer Science and Engineering with a CGPA of 8.9.<br><br>My technical skills include React, Java, Python and Git. These tools enable me to build dynamic and user-friendly web applications and manage version control effectively.<br><br>I've showcased my abilities in significant events like the SMART India Hackathon and DIPEX 2024. In December 2023 At the SMART India Hackathon Grand Finale, I helped develop a React-based single-page application. At DIPEX 2024 in March, I led the backend development of a Python-based platform using NLP and multimedia APIs. I have also completed industrial training at Happy visitors dot com, Kolhapur where I learned about website hosting tools, SSH certification, and SEO essentials<br><br>These experiences have reinforced my goal of becoming a skilled software engineer and a full-stack developer. I am continuously motivated to learn and grow in my field.<br><br>I am seeking opportunities in web development, particularly as a full-stack web developer and front-end developer using technologies like React and the MERN stack. Additionally, I am deeply interested in AI and computation and am eager to work on innovative projects in these fields. My enthusiasm for learning and dedication to excellence make me a valuable addition to any development team, ready to tackle challenges and deliver meaningful solutions.
+● B.Tech Computer Science & Engineering student (CGPA: 8.7) with expertise in Full Stack development and 
+deployment on platforms like Render, Vercel, and Netlify. 
+● Vice President of COMPESA, leading a team of 40+ to organize hackathons and workshops for 300+ 
+students. 
+● Grand Finalist in Smart India Hackathon 2023 & Winner of General championship at state level project 
+exhibition DIPEX 2024, recognized for innovative problem-solving. 
+● Key projects include a real-time code editor, QR-based tourist info system, and bus pass registration 
+system. 
+● Proficient in web technologies such as HTML5 and React, with expertise in Node.js, MongoDB, Express.js, 
+and Git, focusing on building scalable, user-centric applications. 
+● Proven leadership in coordinating national events and developing real-time, responsive solutions.
 
 
 ## 🌐 Socials:
