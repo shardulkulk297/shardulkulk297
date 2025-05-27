@@ -1,5 +1,4 @@
-# 💫 About Me:
-FullStack Developer
+# FullStack Developer
 
 
 ## 🌐 Socials:
